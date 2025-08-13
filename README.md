@@ -1,27 +1,4 @@
----
-title: "Agustín A. Diez Castillo"
-image: avatar.jpg
-about:
-  template: trestles
-  links:
-    - text: LinkedIn
-      url: "https://www.linkedin.com/in/agustin-diez-castillo/"
-    - text: 🦋 Bluesky
-      url: "https://bsky.app/profile/diezcastillo.bsky.social"
-    - text: Mastodon
-      icon: mastodon
-      url: "https://mastodon.social/@diezcastillo"
-    - text: GitHub
-      icon: github
-      url: "https://github.com/dieza"
-    - text: Email
-      url: "mailto:agustin.diez@uv.es"
-    - text: Blog
-      url: "blog.html"
-    - text: CV
-      url: "cv.pdf"
-comments: false
----
+
 
 ::: column-page
 ## Bio
